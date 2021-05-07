@@ -41,7 +41,7 @@ public class ThreadExample extends Thread {
 	//	ThreadExample t1 = new ThreadExample();
 		//t1.sum();
 		}
-	void sum(Thread t1) {
+	void sum() {
 		int a = 10;
 		int b = 30;
 		int c = a+b;
