@@ -56,7 +56,7 @@ public class ThreadExample extends Thread {
 				System.out.println("Thread " +Thread.currentThread().getName());
 			Thread.currentThread().setPriority(MAX_PRIORITY);
 		System.out.println("main thread name  "   +Thread.currentThread().getPriority());
-		
+		System.out.println("ashwini");
 
 		
 	}
