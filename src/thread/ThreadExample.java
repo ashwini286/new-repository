@@ -1,7 +1,4 @@
 package thread;
-
-
-
 public class ThreadExample extends Thread {
 	 public void run() {
 			Thread.currentThread().setPriority(MIN_PRIORITY);
