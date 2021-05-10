@@ -4,6 +4,7 @@ public class ImplementsThread implements Runnable {
 public void run() {
 	for(int i=0;i<9;i++) {
 		System.out.println("child class : " +i);
+		System.out.println("ashwini code");
 	}
 }
 	public static void main(String[] args) {
