@@ -157,7 +157,7 @@ public class CreateDemoFile {
 				System.out.println("number of words = " +numWords);
 				System.out.println("number of Lines = " +numLines);
 				System.out.println("number of character = " +numchars);
-				
+				System.out.println("Ashwini Sharma");
 							}
 							});
 						t1.start();
